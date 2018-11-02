@@ -1,4 +1,5 @@
-CHALLENGE DIRECTIVES:
+#CHALLENGE DIRECTIVES FROM 'FRONTENDMENTOR':
+https://www.frontendmentor.io/challenges/huddle-landing-page-865738
 
 # Frontend Mentor - Huddle landing page with single column layout
 
