@@ -1,3 +1,5 @@
+CHALLENGE DIRECTIVES:
+
 # Frontend Mentor - Huddle landing page with single column layout
 
 ![Header/intro section for the Huddle landing page with single column layout](./design/desktop-preview.jpg)
